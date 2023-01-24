@@ -85,6 +85,8 @@ public class DataTypes {
         System.out.println("Hello world!");
         
         //нихрена себе задачка
+
+        //вот так поворотик
     }
 
 }
