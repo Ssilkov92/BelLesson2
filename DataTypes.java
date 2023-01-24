@@ -83,6 +83,8 @@ public class DataTypes {
         System.out.printf("Your text: %s \n", text);
         in.close();
         System.out.println("Hello world!");
+        
+        //нихрена себе задачка
     }
 
 }
